@@ -12,7 +12,7 @@
 
 ## About
 
-I am Shaik Mohammed Mudassir Mohiuddin (Sharuk). I am a third-year undergraduate student at Keshav Memorial Institute of Technology(Hyderabad).I am mainly focused towards Application Development, Full Stack Web Development and Machine Learning. I love contributing to open source and actively contribute to various projects. My other interests aside from Full Stack Development, Application Development are artificial intelligence and DevOps.
+I am Shaik Mohammed Mudassir Mohiuddin (Sharuk). I am mainly focused towards Application Development, Full Stack Web Development and Machine Learning. I love contributing to open source and actively contribute to various projects. My other interests aside from Full Stack Development, Application Development are artificial intelligence and DevOps.
 
 I'm Labeled to Create Chaos with Code, So Bugs Just Stay with Me, They Won't Hurt You ;) .
 Passionate problem solver and an independent thinker who is always seeking to learn new concepts and ideas. I enjoy working with people and learning from them. Also, Love to Write Poetries.
